@@ -1,0 +1,47 @@
+
+
+
+.magnus_card {
+
+  height: 25rem;
+  background-image: url(../img/magnus.jpg);
+  background-size: cover;
+}
+
+
+.anand_card {
+
+  height: 25rem;
+  background-image: url(../img/anand.jpg);
+  background-size: cover;
+}
+
+.kramnik_card {
+
+  height: 25rem;
+  background-image: url(../img/kramnik.jpg);
+  background-size: cover;
+}
+
+.kasparov_card {
+
+  height: 25rem;
+  background-image: url(../img/kasparov.jpg);
+  background-size: cover;
+}
+
+
+.karpov_card {
+
+  height: 25rem;
+  background-image: url(../img/Karpov.png);
+  background-size: cover;
+}
+
+
+.bobby_card {
+
+  height: 25rem;
+  background-image: url(../img/bobby.jpg);
+  background-size: cover;
+}
