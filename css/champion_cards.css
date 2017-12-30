@@ -45,3 +45,64 @@
   background-image: url(../img/bobby.jpg);
   background-size: cover;
 }
+
+.spassky_card {
+
+  height: 25rem;
+  background-image: url(../img/bobby.jpg);
+  background-size: cover;
+}
+
+.pet_card {
+
+  height: 25rem;
+  background-image: url(../img/Pet.jpg);
+  background-size: cover;
+}
+
+.Bot_card {
+
+  height: 25rem;
+  background-image: url(../img/Bot.jpg);
+  background-size: cover;
+}
+
+.alex_card {
+
+  height: 25rem;
+  background-image: url(../img/Alex.jpg);
+  background-size: cover;
+}
+.Tal_card {
+
+  height: 25rem;
+  background-image: url(../img/bobby.jpg);
+  background-size: cover;
+}
+
+.Lask_card {
+
+  height: 25rem;
+  background-image: url(../img/lasker.jpg);
+  background-size: cover;
+}
+
+.capa_card {
+
+  height: 25rem;
+  background-image: url(../img/capa002.jpg);
+  background-size: cover;
+}
+.Euwe_card {
+
+  height: 25rem;
+  background-image: url(../img/Euwe.jpg);
+  background-size: cover;
+}
+
+.stienetz_card {
+
+  height: 25rem;
+  background-image: url(../img/Steinitz.jpg);
+  background-size: cover;
+}
