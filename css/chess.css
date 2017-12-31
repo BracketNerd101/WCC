@@ -56,6 +56,21 @@ font-family: 'Lora', serif;*/
   color: white;
 }
 
+.chess_intro_banner {
+
+  margin-top: 1rem;
+  height: 45rem;
+  margin-bottom: 3rem;
+}
+
+.intro_banner_text {
+
+  font-family: 'Oswald', sans-serif;
+  font-size: 5rem;
+
+}
+
+
 .jumbotron {
 
   background-color: transparent;
@@ -75,5 +90,6 @@ font-family: 'Lora', serif;*/
 .history_banner {
 
   font-family: 'Oswald', sans-serif;
+
 
 }
