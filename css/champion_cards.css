@@ -49,7 +49,7 @@
 .spassky_card {
 
   height: 25rem;
-  background-image: url(../img/bobby.jpg);
+  background-image: url(../img/Spassky.jpg);
   background-size: cover;
 }
 
@@ -76,7 +76,13 @@
 .Tal_card {
 
   height: 25rem;
-  background-image: url(../img/bobby.jpg);
+  background-image: url(../img/Tal001.jpg);
+  background-size: cover;
+}
+.Vas_card {
+
+  height: 25rem;
+  background-image: url(../img/smyslov.jpeg);
   background-size: cover;
 }
 
@@ -102,7 +108,14 @@
 
 .stienetz_card {
 
-  height: 25rem;
-  background-image: url(../img/Steinitz.jpg);
+  height: 35rem;
+  background-image: url(../img/Steinitz001.jpg);
+  background-size: cover;
+}
+
+.tort_card {
+
+  height: 35rem;
+  background-image: url(../img/zukertort.jpg);
   background-size: cover;
 }
