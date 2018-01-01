@@ -82,8 +82,12 @@ font-family: 'Lora', serif;*/
 
   font-family: 'Oswald', sans-serif;
   color: #777777;
+}
 
+.champ_header_style {
 
+  font-family: 'Josefin Sans', sans-serif;
+  color: #333333;
 }
 
 
@@ -107,5 +111,9 @@ font-family: 'Lora', serif;*/
 
   font-family: 'Oswald', sans-serif;
 
+}
 
+.champion_bg {
+
+  background-color: #DAA520;
 }
