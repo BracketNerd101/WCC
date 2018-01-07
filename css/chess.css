@@ -6,8 +6,6 @@ body {
 min-height: 2200px;
 
 }
-
-
 /*font-family: 'Oswald', sans-serif;
 font-family: 'Josefin Sans', sans-serif;
 font-family: 'Roboto', sans-serif;
@@ -19,7 +17,6 @@ font-family: 'Lora', serif;*/
   z-index: 9000000000;
 
 }*/
-
 
 .cbp-af-header {
   background-color: rgba(0, 0, 0, 0.8)
@@ -67,7 +64,7 @@ font-family: 'Lora', serif;*/
 .intro_banner_text {
 
   font-family: 'Oswald', sans-serif;
-  font-size: 5rem;
+  font-size: 3rem;
 
 }
 
