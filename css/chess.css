@@ -114,3 +114,18 @@ font-family: 'Lora', serif;*/
 
   background-color: #DAA520;
 }
+
+.footer_base_style {
+  height: inherit;
+  margin-top: 3rem;
+
+}
+
+.footer-styles {
+
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #444444;
+  color: #f2f2f2 !important;
+  height:inherit;
+}
